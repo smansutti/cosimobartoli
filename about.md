@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-This website presents a semi-automated digital edition of letters and newsletters written and sent by Cosimo Bartoli to the Medici in Florence during his stay as their agent in Venice from 1562 to 1572.  
-The edition is considered semi-automated because the documents were transcribed using the [Transkribus software](https://www.transkribus.org/). Some of the transcriptions, marked as “Reviewed,” have been manually corrected, while others remain unreviewed, with an accuracy rate of 96.80%.
+This website presents the semi-automated digital edition of letters and newsletters written and sent by Cosimo Bartoli to the Medici in Florence during his stay as their agent in Venice from 1562 to 1572.  
+The edition is described as "semi-automated" because the documents were transcribed using the [Transkribus software](https://www.transkribus.org/). Some of the transcriptions, marked as “Reviewed,” have been manually corrected, while others remain unreviewed, with an accuracy rate of 96.80%.
 <br>
 <br>
 
