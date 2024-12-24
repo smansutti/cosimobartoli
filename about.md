@@ -58,6 +58,17 @@ I would like to extend my gratitude to all the participants for their time and d
 <br>
 <br>
 
+## Citation
+When using this digital edition, please include the following citation:
+*Cosimo Bartoli and Renaissance News: A Semi-Automated Edition of Letters and Newsletters from Venice* edited by Sara Mansutti, with contributions from participants of the *Cosimo’s Cosmos: Cosimo Bartoli and Renaissance News* participatory project (2024). Available at [https://smansutti.github.io/cosimobartoli/]
+<br>
+To cite a document:
+Letter from *(Cosimo Bartoli)* to *(Cosimo I de' Medici)*, January 5, 1563. In *Cosimo Bartoli and Renaissance News: A Semi-Automated Edition of Letters and Newsletters from Venice*, edited by Sara Mansutti with contributions from participants of the *Cosimo’s Cosmos: Cosimo Bartoli and Renaissance News* participatory project (2024) [https://smansutti.github.io/cosimobartoli/letters/1563-01-05](https://smansutti.github.io/cosimobartoli/letters/1563-01-05).
+
+**Cosimo Bartoli and Renaissance News. A semi-automated edition of letters and newsletters from Venice** by *Sara Mansutti* is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1).
+<br>
+<br>
+
 ## Repository
 All the transcriptions (in PAGE XML and TEI XML formats) can be accessed here: [LINK].
 <br>
