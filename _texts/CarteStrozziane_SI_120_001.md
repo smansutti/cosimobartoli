@@ -4,7 +4,7 @@ doctype: Newsletter
 shelfmark: Carte Strozziane, Serie Prima, vol. 120, fol. Unnumbered
 hubs: Paris (22-12-1562)
 writer: Bartoli Cosimo
-attached_letter: <a href="https://smansutti.github.io/cosimobartoli/texts/TBD/">TBD</a>
+attached_letter: TBD
 reviewed: "No"
 ---
 
