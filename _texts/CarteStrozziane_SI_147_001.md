@@ -10,7 +10,7 @@ attached_newsletter: <a href="https://smansutti.github.io/cosimobartoli/texts/30
 reviewed: "No"
 ---
 
-image name: Carte_Strozziane_Serie_Prima_147_155r.jpg  
+[155r]  
   
   
 Illustrissimo et Eccellentissimo Signor et Patron mio osservantissimo  
@@ -47,19 +47,19 @@ Cosimo bartoli
   
 ---  
 
-image name: Carte_Strozziane_Serie_Prima_147_155v.jpg  
+[155v]  
   
   
   
 ---  
 
-image name: Carte_Strozziane_Serie_Prima_147_158r.jpg  
+[158r]  
   
   
   
 ---  
 
-image name: Carte_Strozziane_Serie_Prima_147_158v.jpg  
+[158v]  
   
   
 Allo Illustrissimo et Eccellentissimo Signor il Signor Principe di  

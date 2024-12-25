@@ -7,7 +7,7 @@ attached_to: <a href="https://smansutti.github.io/cosimobartoli/texts/CarteStroz
 reviewed: "No"
 ---
 
-image name: Carte_Strozziane_Serie_Prima_147_156r.jpg  
+[156r]  
   
   
 Gostantino Vergottino da Rodi dice come Francesco suo fratello sendo  
@@ -27,26 +27,26 @@ Ali Portuch Capitano di Rodo che si chiama Cassan Celibi, et il nipote di
 Rustan bascia nominato Mustafa xi Spachi dell'Isola di Rodi, et  
 altri giannizzeri, che andavano a Malta portando liocorno contra venerio  
 havendo inteso che i Cav:ri havevano avelenato l'accqua. Domanda all Eccellenza  
-6. una patente che sia conosciuto per huomo di lei et sia lassato passare sanza  
+6 una patente che sia conosciuto per huomo di lei et sia lassato passare sanza  
 darli impedimento, et una lettera a don Garzia, una bandervola per metterla alla  
 Galera qui sarà in terra di christiani per poter venire più sicuramente, et 8 o, x scudi  
 per il viaggio  
   
 ---  
 
-image name: Carte_Strozziane_Serie_Prima_147_156v.jpg  
+[156v]  
   
   
   
 ---  
 
-image name: Carte_Strozziane_Serie_Prima_147_157r.jpg  
+[157r]  
   
   
   
 ---  
 
-image name: Carte_Strozziane_Serie_Prima_147_157v.jpg  
+[157v]  
   
   
 Referto di Gostantino Vergottino da Rodi  
