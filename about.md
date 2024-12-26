@@ -33,9 +33,9 @@ Each transcription includes the archival signature and page number.
 <br>
 
 ## Editorial Practices
-The documents were transcribed automatically using the [Transkribus software](https://www.transkribus.org/). The text recognition model was specifically trained on documents written by Cosimo Bartoli and his son, Curzio Bartoli, resulting in a high degree of accuracy (96.80%). The trained model does not automatically expand abbreviations. A script was employed to replace the abbreviations with their expansions. The mdoel [Cosimo Bartoli’s Italian Humanistic and Cursive Scripts (1562-1572)](LINK) is publicly available and can be used by any registered Transkribus user.
+The documents were transcribed automatically using the [Transkribus software](https://www.transkribus.org/). The text recognition model was specifically trained on documents written by Cosimo Bartoli, his nephew Curzio Bartoli and his secretary Giovanni Gavazzo, resulting in a high degree of accuracy (96.80%). The trained model does not automatically expand abbreviations. A script was employed to replace the abbreviations with their expansions. The model [Cosimo Bartoli’s Italian Humanistic and Cursive Scripts (1562-1572)](https://www.transkribus.org/model/cosimo-bartoli-model) is publicly available and can be used by any registered Transkribus user.
 <br>
-Each letter and newsletter is treated as an individual document. The transcriptions can be browsed on the [Home page](LINK) or searched by keyword on the [Search page](LINK).
+Each letter and newsletter is treated as an individual document. The transcriptions can be browsed on the [Home page](https://smansutti.github.io/cosimobartoli/) or searched by keyword on the [Search page](https://smansutti.github.io/cosimobartoli/search/).
 <br>
 The documents are categorized into three genres: Letter, Newsletter, and Other. The “Other” category includes documents that contained information attached to a letter but did not follow the traditional form of a newsletter, lacking a hub and date. Each document includes metadata at the top, followed by the transcription.
 <br>
@@ -69,7 +69,7 @@ Letter from *[Cosimo Bartoli)* to *(Cosimo I de' Medici)*, January 7, 1563. In *
 <br>
 
 ## Repository
-All the transcriptions (in PAGE XML and TEI XML formats) can be accessed here: [LINK].
+All the transcriptions (in PAGE XML and TEI XML formats) can be accessed here: [https://doi.org/10.5281/zenodo.14559525](https://doi.org/10.5281/zenodo.14559525).
 <br>
 <br>
 
