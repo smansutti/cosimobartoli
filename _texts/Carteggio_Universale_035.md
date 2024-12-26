@@ -6,7 +6,7 @@ docdate: 21-07-1565
 place: Venezia
 sender: Bartoli Cosimo
 recipient: Francesco I de' Medici
-attached_newsletter: <a href="https://smansutti.github.io/cosimobartoli/texts/3079_124,3079_126/">3079_124,3079_126</a>
+attached_newsletter: <a href="https://smansutti.github.io/cosimobartoli/texts/3079_124/">3079_124</a>, <a href="https://smansutti.github.io/cosimobartoli/texts/3079_126/">3079_126</a>
 reviewed: TBD
 ---
 
